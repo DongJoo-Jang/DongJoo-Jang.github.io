@@ -103,5 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repo: https://github.com/DongJoo-Jang/DongJoo-Jang.github.io.git
+  branch: origin
